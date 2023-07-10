@@ -1,0 +1,36 @@
+{
+  "pages": [
+    {
+      "id": "6IqEmfP",
+      "grid": {
+        "tiles": []
+      },
+      "showTitle": false
+    }
+  ],
+  "owner": "kumaradithya879@gmail.com",
+  "listed": true,
+  "name": "test\u0027s default dashboard",
+  "showGrid": true,
+  "versionTag": {
+    "versionNumber": 0,
+    "lastModifiedBy": {
+      "login": "kumaradithya879@gmail.com"
+    },
+    "lastModifiedOn": 1688993340982,
+    "extendedProperties": {}
+  },
+  "creationTag": {
+    "versionNumber": 0,
+    "lastModifiedBy": {
+      "login": "kumaradithya879@gmail.com"
+    },
+    "lastModifiedOn": 1688993340982,
+    "extendedProperties": {}
+  },
+  "tags": [],
+  "customFields": {},
+  "checklists": {
+    "checklists": []
+  }
+}
