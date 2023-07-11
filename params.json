@@ -28,6 +28,23 @@
       "manageExposedElements": false,
       "manageAdditionalDashboardUsers": false,
       "executeApp": false
+    },
+    {
+      "user": "penureddy@deloitte.com",
+      "admin": true,
+      "readProjectContent": false,
+      "writeProjectContent": true,
+      "exportDatasetsData": true,
+      "readDashboards": false,
+      "writeDashboards": false,
+      "moderateDashboards": false,
+      "publishToDataCollections": true,
+      "shareToWorkspaces": true,
+      "runScenarios": false,
+      "manageDashboardAuthorizations": false,
+      "manageExposedElements": false,
+      "manageAdditionalDashboardUsers": false,
+      "executeApp": false
     }
   ],
   "additionalDashboardUsers": {
@@ -54,7 +71,7 @@
     },
     "sharingRequestsEnabled": "INHERIT",
     "limitedVisibilityEnabled": "INHERIT",
-    "accessRequestsEnabled": "INHERIT",
+    "accessRequestsEnabled": "ENABLED",
     "limitsSettings": {
       "memSampleBytes": {
         "soft": -1,
@@ -209,11 +226,11 @@
     }
   },
   "versionTag": {
-    "versionNumber": 1,
+    "versionNumber": 2,
     "lastModifiedBy": {
-      "login": "api:2JBFZLUXV7T1RSP7"
+      "login": "kumaradithya879@gmail.com"
     },
-    "lastModifiedOn": 1688996711873,
+    "lastModifiedOn": 1689061425293,
     "extendedProperties": {}
   },
   "creationTag": {
